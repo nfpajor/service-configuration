@@ -1,3 +1,3 @@
 booking.property= Product Profile Dev
-spring.data.mongodb.uri=mongodb://root:root@localhost:27017/micro?authMechanism=DEFAULT
+spring.data.mongodb.uri=mongodb://root:root@localhost:27017/micro
 spring.data.mongodb.authentication-database=admin
